@@ -9,7 +9,8 @@ I come first from the world of graphics branding, so I have some experience in W
 <ul>
 <li>✅ Known languages: <strong>HTML/CSS</strong> </li>
 <li>🌱 In Training: <strong>JS</strong></li>
-<li>🔜 Interested in: <strong>REACT/VueJS/Swift</strong></li>
+<li>🔜 Interested in: <strong>REACT/VueJS</strong></li>
+<li>🔜 For later: <strong>Swift</strong></li>
 </ul>
 
 -- 💬 If I can help you. I will do my best 💪🏻--
