@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-My name is Jonathan from France. I'm 36. I started as a coded self-learner in february 2023. Starting with web languages.  
-My goal today is just to have fun and play with code.  
-I come first from the world of graphics branding, so I have some experience in Webdesign, Ui/Ux. 
+My name is Jonathan from France. I'm 37. I started as a coded self-learner in February 2023. I was starting with web languages.  
+My goal today is to have fun and play with code.  
+I come first from graphics branding, so I have some experience in web design and Ui/Ux. 
 
 <h3>Technologies:</h3>
 
 <ul>
 <li>✅ Known languages: <strong>HTML/CSS/JS</strong> </li>
 <li>🌱 In Training: <strong>SWIFT</strong></li>
-<li>🔜 Interested in: <strong>DevOPS</strong></li>
-<li>🔜 For later: <strong>REACT/VueJS</strong></li>
+<li>🔜 For later: <strong>REACT/VueJS/PHP</strong></li>
+<li>🔜 Interested in: <strong>Apps, web</strong> and ever graphism skils.</li>
 </ul>
 
 -- 💬 If I can help you. I will do my best 💪🏻--
