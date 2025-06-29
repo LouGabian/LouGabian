@@ -7,10 +7,11 @@ I come first from graphics branding, so I have some experience in web design and
 <h3>Technologies:</h3>
 
 <ul>
-<li>✅ Known languages: <strong>HTML/CSS/JS</strong> </li>
-<li>🌱 In Training: <strong>SWIFT</strong></li>
-<li>🔜 For later: <strong>REACT/VueJS/PHP</strong></li>
+<li>✅ Known languages: <strong>HTML / CSS / JS / Swift</strong> </li>
+<li>🌱 In Training: <strong>Next.js</strong></li>
+<li>🔜 For later: <strong>Angular / VueJS / PHP </strong></li>
 <li>🔜 Interested in: <strong>Apps, web</strong> and ever graphism skils.</li>
+<li>🎮 Frameworks : TailwindCSS / Bootstrap / REACTJS / SwiftUI</li>
 </ul>
 
 -- 💬 If I can help you. I will do my best 💪🏻--
