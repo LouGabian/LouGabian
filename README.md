@@ -1,37 +1,50 @@
-## Hi there 👋
 
-My name is Jonathan from France. I'm 37. I started as a coded self-learner in February 2023. I was starting with web languages.  
-My goal today is to have fun and play with code.  
-I come first from graphics branding, so I have some experience in web design and Ui/Ux. 
+# 👋 Salut, moi c'est Jonathan ![Profile Views](https://komarev.com/ghpvc/?username=LouGabian&style=flat-square&color=brightgreen)
 
-<h3>Technologies:</h3>
+Développeur web et mobile autodidacte depuis 2023 — basé en France.  
+Après des années à construire des paysages, j’ai troqué la pelle pour le clavier. Aujourd’hui, je code avec passion, créativité et curiosité.  
+Je suis là pour **apprendre**, **créer** et **partager** — toujours dans la bonne humeur. 🇬🇧 [View this profile in English](./README.en.md)
 
-<ul>
-<li>✅ Known languages: <strong>HTML / CSS / JS / Swift</strong> </li>
-<li>🌱 In Training: <strong>Next.js</strong></li>
-<li>🔜 For later: <strong>Angular / VueJS / PHP </strong></li>
-<li>🔜 Interested in: <strong>Apps, web</strong> and ever graphism skils.</li>
-<li>🎮 Frameworks : TailwindCSS / Bootstrap / REACTJS / SwiftUI</li>
-</ul>
+---
 
--- 💬 If I can help you. I will do my best 💪🏻--
+## 🧰 Technologies & Outils
 
->"Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live."  - Jeff Atwood
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/swiftUI-lightblue.svg?&style=for-the-badge)
 
+---
 
+## 🧪 En ce moment je travaille sur :
 
+- Un projet **Next.js** fullstack avec **Supabase**
+- Des composants UI stylés avec **TailwindCSS v4**
+- Un site communautaire à l’ambiance **médiévale et fun**
 
-<!--
-**LouGabian/LouGabian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 Ce que je veux explorer bientôt :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Vue.js**, **Angular** et un soupçon de **PHP**
+- Le développement **Android** avec **Kotlin**
+- L’univers magique de l’**accessibilité web** & du **design system**
+
+---
+
+## 📊 Activité GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LouGabian&theme=onedark-duo&hide_border=true&border_radius=5.7&locale=fr&mode=weekly)](https://git.io/streak-stats)
+---
+
+> _“Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.”_  
+> — Jeff Atwood
+
+---
+
+🧭 **Portfolio en cours de création — stay tuned!**
