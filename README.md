@@ -10,7 +10,8 @@ Je suis là pour **apprendre**, **créer** et **partager** — toujours dans la 
 ## 🧰 Technologies & Outils
 
 <div align="center">
-
+<div>
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -20,6 +21,8 @@ Je suis là pour **apprendre**, **créer** et **partager** — toujours dans la 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/swiftUI-lightblue.svg?&style=for-the-badge)
+
+</div>
 
 </div>
 
