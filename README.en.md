@@ -8,6 +8,8 @@ I'm here to **learn**, **build**, and **share** — always with a smile. 🇫�
 
 ## 🧰 Technologies & Tools
 
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -18,27 +20,48 @@ I'm here to **learn**, **build**, and **share** — always with a smile. 🇫�
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/swiftUI-lightblue.svg?&style=for-the-badge)
 
+</div>
+
 ---
 
-## 🧪 Currently working on :
+## 🛠️ Projects & Learning Focus
+
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="top" width="50%" style="border-right:1px solid lightgray; padding-right: 20px;">
+
+### 🧪 Currently working on :
 
 - A **Next.js** fullstack project using **Supabase**
 - Custom UI components with **TailwindCSS v4**
 - A community website with a **medieval & fun theme**
 
----
+</td>
+    <td valign="top" width="50%" style="padding-left: 20px;">
 
-## 🔭 Things I want to explore soon :
+### 🔭 Things I want to explore soon :
 
 - **Vue.js**, **Angular**, and a bit of **PHP**
 - **Android development** with **Kotlin**
 - The magical world of **web accessibility** & **design systems**
 
+</td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ## 📊 GitHub Activity
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=LouGabian&theme=onedark-duo&hide_border=true&border_radius=9.8&mode=weekly)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
