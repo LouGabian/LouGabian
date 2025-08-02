@@ -9,6 +9,8 @@ Je suis là pour **apprendre**, **créer** et **partager** — toujours dans la 
 
 ## 🧰 Technologies & Outils
 
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,27 +21,49 @@ Je suis là pour **apprendre**, **créer** et **partager** — toujours dans la 
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/swiftUI-lightblue.svg?&style=for-the-badge)
 
+</div>
+
 ---
 
-## 🧪 En ce moment je travaille sur :
+### 🛠️ Projets & Axes d'apprentissage
+
+<div align="center">
+
+<table>
+  <tr>
+    <td valign="top" width="50%" style="border-right:1px solid lightgray; padding-right: 20px;">
+
+### 🔧 En ce moment je travaille sur :
 
 - Un projet **Next.js** fullstack avec **Supabase**
 - Des composants UI stylés avec **TailwindCSS v4**
 - Un site communautaire à l’ambiance **médiévale et fun**
 
----
+</td>
+    <td valign="top" width="50%" style="padding-left: 20px;">
 
-## 🔭 Ce que je veux explorer bientôt :
+### 🔬 Ce que je veux explorer bientôt :
 
 - **Vue.js**, **Angular** et un soupçon de **PHP**
 - Le développement **Android** avec **Kotlin**
 - L’univers magique de l’**accessibilité web** & du **design system**
 
+</td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ## 📊 Activité GitHub
 
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=LouGabian&theme=onedark-duo&hide_border=true&border_radius=5.7&locale=fr&mode=weekly)](https://git.io/streak-stats)
+
+</div>
+
 ---
 
 > _“Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.”_  
