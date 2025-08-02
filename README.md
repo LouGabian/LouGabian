@@ -59,7 +59,7 @@ Je suis là pour **apprendre**, **créer** et **partager** — toujours dans la 
 
 ---
 
-## 📊 Activité GitHub
+## 📊 Ces derniers temps sur GitHub
 
 <div align="center">
 
